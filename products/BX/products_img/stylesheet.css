@@ -1,0 +1,75 @@
+BODY {
+	SCROLLBAR-FACE-COLOR: #ffffff; FONT-SIZE: 12px; MARGIN: 0px; SCROLLBAR-HIGHLIGHT-COLOR: #eeeeee; SCROLLBAR-SHADOW-COLOR: #b4b4b4; COLOR: #000000; SCROLLBAR-3DLIGHT-COLOR: #5f5f5f; SCROLLBAR-ARROW-COLOR: #ff0000; SCROLLBAR-TRACK-COLOR: #eeeeee; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #eeeeee; SCROLLBAR-BASE-COLOR: #ffffff
+}
+TD {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 22px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.titleLine {
+	LINE-HEIGHT: 23px; TEXT-ALIGN: justify
+}
+.sortStyle {
+	COLOR: #000000; LINE-HEIGHT: 22px; TEXT-DECORATION: none
+}
+.proImgBorder {
+	BORDER-RIGHT: #f0f0f0 1px solid; BORDER-TOP: #f0f0f0 1px solid; BORDER-LEFT: #f0f0f0 1px solid; BORDER-BOTTOM: #f0f0f0 1px solid
+}
+.menu {
+	COLOR: #ffffff; LINE-HEIGHT: 22px; TEXT-DECORATION: none
+}
+.T {
+	FONT-SIZE: 12px; COLOR: #ffffff; LINE-HEIGHT: 23px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.T A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.T A:hover {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.T A:active {
+	COLOR: #ff0000; TEXT-DECORATION: none
+}
+.milk12 {
+	FONT-SIZE: 12px; COLOR: #fce712
+}
+A.milk12:link {
+	FONT-SIZE: 12px; COLOR: #fce712
+}
+A.milk12:visited {
+	FONT-SIZE: 12px; COLOR: #fce712
+}
+A.milk12:active {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+A.milk12:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+.inputMsg {
+	BORDER-RIGHT: #b4dada 1px solid; BORDER-TOP: #b4dada 1px solid; BORDER-LEFT: #b4dada 1px solid; BORDER-BOTTOM: #b4dada 1px solid
+}
+.red12 {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+A.red12:link {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.red12:visited {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.red12:active {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: none
+}
+A.red12:hover {
+	FONT-SIZE: 12px; COLOR: #000000; TEXT-DECORATION: underline
+}
+.en11 {
+	FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: Geneva, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
