@@ -1,0 +1,35 @@
+/* Basic code - don't modify */
+ 
+ #nav33 { display: block; margin: 0; padding: 0; position: relative; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; }
+  #nav33 li { display: block; list-style: none; margin: 0; padding: 0; float: left; position: relative; }
+  #nav33 a { display: block; }
+  #nav33 ul { display: none; position: absolute; left: 0; margin: 0; padding: 0; }
+  * html #nav33 ul { line-height: 0; } /* IE6 "fix" */
+  	#nav33 ul a { zoom: 1; } /* IE6/7 fix */
+    #nav33 ul li { float: none; }
+    #nav33 ul ul { top: 0; }
+    
+/* Essentials - configure this */
+
+#nav33 ul { width: 215px; }
+#nav33 ul ul { left: 216px; }
+
+/* Everything else is theming */
+ 
+#nav33 { background-color: #000000; height: 28px; }
+#nav33 *:hover { background-color: none; }
+#nav33 a { font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:600; font-size: 11px; color:#000000; padding-left:11px; padding-right:11px; padding-bottom:8px; padding-top:8px; line-height: 1; }
+
+  #nav33 li.hover a { background-color: #ECECEC; }
+ 
+  #nav33 ul { top: 29px; }
+    #nav33 ul li a { background-color: #ECECEC; }
+      #nav33 ul li.hover > a { background-color: #F88B21; }
+   #nav33 ul a { border-bottom: 1px solid white; border-right: none; opacity: 0.9; filter: alpha(opacity=90); }
+/* #nav33 ul a { border-bottom: none; } - I also needed this for IE6/7 */
+#nav33 img{ margin-right:5px;}
+#nav33 li ul li{ background-color:#ECECEC;}
+#nav33 li a.bai:link{ font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:600; font-size: 11px; color:#ffffff; }
+#nav33 li a.bai:hover{ font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:600; font-size: 11px; color:#ffffff; background-color:#000000 }
+#nav33 li a.bai:visited{ font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:600; font-size: 11px; color:#ffffff; }
+
