@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sothink_menu>
+  <description>
+    <temp_depict></temp_depict>
+    <temp_title>FP41528.7712615741</temp_title>
+    <version>9.00</version>
+    <prog_id>PageletServer.DynamicMenu</prog_id>
+    <update_time>41528.771261574</update_time>
+    <preview_path></preview_path>
+  </description>
+  <global>
+    <top_state>2</top_state>
+    <publish_file></publish_file>
+    <js_path_name></js_path_name>
+    <fast_js_enable>0</fast_js_enable>
+    <fast_js_type>0</fast_js_type>
+    <fast_js_path></fast_js_path>
+    <fast_js_img_path></fast_js_img_path>
+    <fast_js_script_path></fast_js_script_path>
+    <click_show>0</click_show>
+    <right_to_left>0</right_to_left>
+    <hide_sub>1</hide_sub>
+    <delay_hide>300</delay_hide>
+    <delay_show_v>250</delay_show_v>
+    <delay_show_h>0</delay_show_h>
+    <ie_encode>ASMO-708</ie_encode>
+    <tab_menu_select_method>1</tab_menu_select_method>
+    <tab_menu_popup_height>25</tab_menu_popup_height>
+    <name>menu2f29</name>
+    <type>0</type>
+    <align>1</align>
+    <stretch_width>1</stretch_width>
+    <width>100</width>
+    <width_unit>0</width_unit>
+    <coor_x>0</coor_x>
+    <coor_x_scroll>1</coor_x_scroll>
+    <coor_y>0</coor_y>
+    <coor_y_scroll>1</coor_y_scroll>
+    <cursor_nolink>default</cursor_nolink>
+    <cursor_link>hand</cursor_link>
+    <script_path>\</script_path>
+    <image_path>\</image_path>
+    <site_root>e:\hydraumech</site_root>
+    <advanced>0</advanced>
+    <link_prefix></link_prefix>
+    <highlight>67108896</highlight>
+    <highlight_level>2</highlight_level>
+    <tab_highlight>67109119</tab_highlight>
+    <tab_highlight_level>2</tab_highlight_level>
+    <tab_spacing>2</tab_spacing>
+    <tab_padding>3</tab_padding>
+    <tab_transparency>0</tab_transparency>
+    <tab_border_style>1</tab_border_style>
+    <tab_border_width>1</tab_border_width>
+    <tab_border_color>#000000</tab_border_color>
+    <tab_border_synchronize>1</tab_border_synchronize>
+    <tab_bg_color>#E6EFF9</tab_bg_color>
+    <tab_bg_transparent>0</tab_bg_transparent>
+    <tab_bg_image></tab_bg_image>
+    <tab_bg_tile>3</tab_bg_tile>
+    <encode>1</encode>
+    <hide_select>1</hide_select>
+    <hide_object>0</hide_object>
+    <hide_iframe>0</hide_iframe>
+  </global>
+  <ul>
+    <li type="text" class="item"><a href="/index.html" target="_self">Home_&amp;nbsp; 11</a></li>
+    <li type="text" class="item"><a href="/aboutus.html" target="_self">About us_&amp;nbsp; 7</a></li>
+    <li type="text" class="pop_item"><a href="/products.html" target="_self">Products_&amp;nbsp; 7</a></li>
+    <ul>
+      <li type="text" class="pop_item"><a href="/left-hypumps.html" target="_self">Hydraulic pumps</a></li>
+      <ul>
+        <li type="text" class="item"><a href="/products/gearpump/product_hypumps_main.html" target="_self">BKP0.5</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bkp1 code.html" target="_self">BKP1</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bap1 code.html" target="_self">bap1</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bap1.5 code.html" target="_self">bap1.5</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bap2 code.html" target="_self">bap2(BHP2)</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bap2.5 code.html" target="_self">bap2.5(BHP2.5)</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bdp2.5 code.html" target="_self">BDP2.5</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bhp3 code.html" target="_self">BHP3</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/hypump_bap3.5 code.html" target="_self">bap3.5</a></li>
+        <li type="text" class="item"><a href="/products/gearpump/multiple_pumps code .html" target="_self">Multiple pumps</a></li>
+      </ul>
+      <li type="text" class="pop_item"><a href="/left-hyvalves.html" target="_self">Hydraulic valves</a></li>
+      <ul>
+        <li type="text" class="item"><a href="/products/valves/product_hyvalves_main.html" target="_self">Pressure Control Valves</a></li>
+        <li type="text" class="item"><a href="/products/valves/directional control valves.html" target="_self">Directional Control Valves</a></li>
+        <li type="text" class="item"><a href="/products/valves/flow control valves.html" target="_self">Flow Control Valves</a></li>
+        <li type="text" class="item"><a href="/products/valves/modularl valves.html" target="_self">Modular Valves</a></li>
+        <li type="text" class="item"><a href="/products/valves/subplates.html" target="_self">Subplates</a></li>
+        <li type="text" class="item"><a href="/products/valves/model table.html" target="_self">Model Compaison Table</a></li>
+      </ul>
+      <li type="text" class="pop_item"><a href="/left-hymotors.html" target="_self">Hydraulic motors</a></li>
+      <ul>
+        <li type="text" class="item"><a href="/products/motors/hydraulic steering unit.html" target="_self">Hydraulic Steering Units</a></li>
+        <li type="text" class="item"><a href="/products/motors/hydraulic motors.html" target="_self">Hydraulic Motors</a></li>
+        <li type="text" class="item"><a href="/products/motors/hydraulic valves.html" target="_self">Hydraulic Valves</a></li>
+        <li type="text" class="item"><a href="/products/motors/torque amplifiers.htm" target="_self">Torque Amplifiers</a></li>
+        <li type="text" class="item"><a href="/products/motors/steering column.htm" target="_self">Steering Columns</a></li>
+        <li type="text" class="item"><a href="/products/motors/hydraulic brakes.htm" target="_self">Hydraulic Brakes</a></li>
+        <li type="text" class="item"><a href="/products/motors/planetary gearboxs.htm" target="_self">Planetary Gearboxes</a></li>
+        <li type="text" class="item"><a href="/products/motors/downloads.htm" target="_self">Downloads</a></li>
+      </ul>
+      <li type="text" class="pop_item"><a href="/left-pneu.html" target="_self">Pneumatic components</a></li>
+      <ul>
+        <li type="text" class="item"><a href="/products/air/t_x_series_cylinder.htm" target="_self">Pneumatic Cylinder</a></li>
+        <li type="text" class="item"><a href="/products/air/v_series_pilot_air_valves.htm" target="_self">Directional Valves</a></li>
+        <li type="text" class="item"><a href="/products/air/g_series_mini_valve.htm" target="_self">Solenoid Valves</a></li>
+        <li type="text" class="item"><a href="/products/air/ea_series_high_pressure_f,L.htm" target="_self">Air treatment units</a></li>
+        <li type="text" class="item"><a href="/products/air/standard_plastic_plastic_push-in_fittings.htm" target="_self">Pneumatic Accessories</a></li>
+      </ul>
+      <li type="text" class="item"><a href="" target="_self">Auto parts</a></li>
+      <li type="text" class="pop_item"><a href="/left-bline.html" target="_self">bottling line</a></li>
+      <ul>
+        <li type="text" class="item"><a href="/products/bottling/rcgx.htm" target="_self">filling machine</a></li>
+        <li type="text" class="item"><a href="/products/bottling/qgf.htm" target="_self">water filling machine</a></li>
+        <li type="text" class="item"><a href="products/bottling/gz.htm" target="_self">oil filler</a></li>
+        <li type="text" class="item"><a href="/products/bottling/fsy.htm" target="_self">water treatment device</a></li>
+        <li type="text" class="item"><a href="/products/bottling/hy-j.htm" target="_self">blow moulder</a></li>
+      </ul>
+      <li type="text" class="pop_item"><a href="/left-furnaces.html" target="_self">Industrial furnaces</a></li>
+      <ul>
+        <li type="text" class="item"><a href="/products/furnace/hsg.htm" target="_self">Industrial furnaces</a></li>
+        <li type="text" class="item"><a href="/products/furnace/electronic.htm" target="_self">Surface Treatment Equipment</a></li>
+        <li type="text" class="item"><a href="/products/furnace/tps01.htm" target="_self">Temperature Profiler</a></li>
+        <li type="text" class="item"><a href="/products/furnace/screenprinter.htm" target="_self">Screen Printer and Others</a></li>
+      
+      </ul>
+    
+    </ul>
+    <li type="text" class="item"><a href="/guestbook.html" target="_self">Guest book_&amp;nbsp; 5</a></li>
+    <li type="text" class="item"><a href="/contact.html" target="_self">Contact us_&amp;nbsp; 5</a></li>
+  </ul>
+  <layer>
+    <setting>
+      <display>0</display>
+      <spacing>0</spacing>
+      <padding>3</padding>
+      <transparency>0</transparency>
+      <direction>0</direction>
+      <corner_x>0</corner_x>
+      <corner_y>0</corner_y>
+      <bg_color>#000000</bg_color>
+      <bg_transparent>0</bg_transparent>
+      <bg_image></bg_image>
+      <bg_tile>3</bg_tile>
+      <border_style>1</border_style>
+      <border_width>0</border_width>
+      <border_color>#FFFFFF</border_color>
+      <border_synchronize>1</border_synchronize>
+      <shadow_type>0</shadow_type>
+      <shadow_size>3</shadow_size>
+      <shadow_color>#999999</shadow_color>
+      <effect_show>0</effect_show>
+      <effect_hide>0</effect_hide>
+      <effect_speed>50</effect_speed>
+      <enable_decoration>0</enable_decoration>
+      <dr_left_top></dr_left_top>
+      <dr_left_top_lib></dr_left_top_lib>
+      <dr_left_top_corner_width>20</dr_left_top_corner_width>
+      <dr_left_top_corner_height>20</dr_left_top_corner_height>
+      <dr_left_top_color></dr_left_top_color>
+      <dr_left_top_blend>0</dr_left_top_blend>
+      <dr_left_top_light>0</dr_left_top_light>
+      <dr_right_top></dr_right_top>
+      <dr_right_top_lib></dr_right_top_lib>
+      <dr_right_top_corner_width>20</dr_right_top_corner_width>
+      <dr_right_top_corner_height>20</dr_right_top_corner_height>
+      <dr_right_top_color></dr_right_top_color>
+      <dr_right_top_blend>0</dr_right_top_blend>
+      <dr_right_top_light>0</dr_right_top_light>
+      <dr_right_bottom></dr_right_bottom>
+      <dr_right_bottom_lib></dr_right_bottom_lib>
+      <dr_right_bottom_corner_width>20</dr_right_bottom_corner_width>
+      <dr_right_bottom_corner_height>20</dr_right_bottom_corner_height>
+      <dr_right_bottom_color></dr_right_bottom_color>
+      <dr_right_bottom_blend>0</dr_right_bottom_blend>
+      <dr_right_bottom_light>0</dr_right_bottom_light>
+      <dr_left_bottom></dr_left_bottom>
+      <dr_left_bottom_lib></dr_left_bottom_lib>
+      <dr_left_bottom_corner_width>20</dr_left_bottom_corner_width>
+      <dr_left_bottom_corner_height>20</dr_left_bottom_corner_height>
+      <dr_left_bottom_color></dr_left_bottom_color>
+      <dr_left_bottom_blend>0</dr_left_bottom_blend>
+      <dr_left_bottom_light>0</dr_left_bottom_light>
+      <dr_top img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_top>
+      <dr_right img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_right>
+      <dr_bottom img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_bottom>
+      <dr_left img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_left>
+      <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+    </setting>
+    <node state="0" condition_invisible="0" advanced_disable="0">
+      <condition_prefix></condition_prefix>
+      <condition_suffix></condition_suffix>
+      <general width="80" height="0" type="0" align_h="0" align_v="1" tip_text="" status="" status_default="0"></general>
+      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="1" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+      <image out="" over="" width="-1" height="-1" border="0"></image>
+      <icon out="e:\hydraumech\icons\icon_10.gif" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+      <arrow out="" over="" width="0" height="0" border="0"></arrow>
+      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="2" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+    </node>
+    <node state="0" condition_invisible="0" advanced_disable="0">
+      <condition_prefix></condition_prefix>
+      <condition_suffix></condition_suffix>
+      <general width="80" height="0" type="0" align_h="0" align_v="1" tip_text="" status="" status_default="1"></general>
+      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="1" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+      <image out="" over="" width="-1" height="-1" border="0"></image>
+      <icon out="e:\hydraumech\icons\icon_10.gif" over="E:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+      <arrow out="e:\hydraumech\icons\060420arrow.gif" over="e:\hydraumech\icons\060420arrow1.gif" width="28" height="5" border="0"></arrow>
+      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+    </node>
+    <node state="2" condition_invisible="0" advanced_disable="0">
+      <condition_prefix></condition_prefix>
+      <condition_suffix></condition_suffix>
+      <general width="80" height="0" type="0" align_h="0" align_v="1" tip_text="" status="" status_default="1"></general>
+      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="1" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+      <image out="" over="" width="-1" height="-1" border="0"></image>
+      <icon out="e:\hydraumech\icons\icon_10.gif" over="E:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+      <arrow out="e:\hydraumech\icons\arrow_32[1].gif" over="" width="14" height="18" border="0"></arrow>
+      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+    
+      <layer>
+        <setting>
+          <display>1</display>
+          <spacing>2</spacing>
+          <padding>2</padding>
+          <transparency>0</transparency>
+          <direction>0</direction>
+          <corner_x>0</corner_x>
+          <corner_y>0</corner_y>
+          <bg_color>#FFFFFF</bg_color>
+          <bg_transparent>0</bg_transparent>
+          <bg_image></bg_image>
+          <bg_tile>3</bg_tile>
+          <border_style>8</border_style>
+          <border_width>0</border_width>
+          <border_color>#FFFFF</border_color>
+          <border_synchronize>1</border_synchronize>
+          <shadow_type>0</shadow_type>
+          <shadow_size>3</shadow_size>
+          <shadow_color>#799BD8</shadow_color>
+          <effect_show>0</effect_show>
+          <effect_hide>0</effect_hide>
+          <effect_speed>80</effect_speed>
+          <enable_decoration>0</enable_decoration>
+          <dr_left_top></dr_left_top>
+          <dr_left_top_lib></dr_left_top_lib>
+          <dr_left_top_corner_width>20</dr_left_top_corner_width>
+          <dr_left_top_corner_height>20</dr_left_top_corner_height>
+          <dr_left_top_color></dr_left_top_color>
+          <dr_left_top_blend>0</dr_left_top_blend>
+          <dr_left_top_light>0</dr_left_top_light>
+          <dr_right_top></dr_right_top>
+          <dr_right_top_lib></dr_right_top_lib>
+          <dr_right_top_corner_width>20</dr_right_top_corner_width>
+          <dr_right_top_corner_height>20</dr_right_top_corner_height>
+          <dr_right_top_color></dr_right_top_color>
+          <dr_right_top_blend>0</dr_right_top_blend>
+          <dr_right_top_light>0</dr_right_top_light>
+          <dr_right_bottom></dr_right_bottom>
+          <dr_right_bottom_lib></dr_right_bottom_lib>
+          <dr_right_bottom_corner_width>20</dr_right_bottom_corner_width>
+          <dr_right_bottom_corner_height>20</dr_right_bottom_corner_height>
+          <dr_right_bottom_color></dr_right_bottom_color>
+          <dr_right_bottom_blend>0</dr_right_bottom_blend>
+          <dr_right_bottom_light>0</dr_right_bottom_light>
+          <dr_left_bottom></dr_left_bottom>
+          <dr_left_bottom_lib></dr_left_bottom_lib>
+          <dr_left_bottom_corner_width>20</dr_left_bottom_corner_width>
+          <dr_left_bottom_corner_height>20</dr_left_bottom_corner_height>
+          <dr_left_bottom_color></dr_left_bottom_color>
+          <dr_left_bottom_blend>0</dr_left_bottom_blend>
+          <dr_left_bottom_light>0</dr_left_bottom_light>
+          <dr_top img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_top>
+          <dr_right img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_right>
+          <dr_bottom img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_bottom>
+          <dr_left img_path="" img_height="-1" img_width="-1" bg_img="" bg_img_lib="" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="#FFFFF7" bg_transparent="0" bg_tile="3"></dr_left>
+          <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+        </setting>
+        <node state="2" condition_invisible="0" advanced_disable="0">
+          <condition_prefix></condition_prefix>
+          <condition_suffix></condition_suffix>
+          <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+          <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+          <image out="" over="" width="-1" height="-1" border="0"></image>
+          <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+          <arrow out="e:\hydraumech\icons\arrow_32[1].gif" over="" width="14" height="18" border="0"></arrow>
+          <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+          <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+        
+          <layer>
+            <setting>
+              <display>1</display>
+              <spacing>2</spacing>
+              <padding>2</padding>
+              <transparency>0</transparency>
+              <direction>0</direction>
+              <corner_x>0</corner_x>
+              <corner_y>0</corner_y>
+              <bg_color>#FFFFFF</bg_color>
+              <bg_transparent>0</bg_transparent>
+              <bg_image></bg_image>
+              <bg_tile>3</bg_tile>
+              <border_style>8</border_style>
+              <border_width>0</border_width>
+              <border_color>#FFFFFF</border_color>
+              <border_synchronize>1</border_synchronize>
+              <shadow_type>0</shadow_type>
+              <shadow_size>3</shadow_size>
+              <shadow_color>#999999</shadow_color>
+              <effect_show>0</effect_show>
+              <effect_hide>1</effect_hide>
+              <effect_speed>32</effect_speed>
+              <enable_decoration>0</enable_decoration>
+              <dr_left_top>e:\hydraumech\icons\surround09_tl.gif</dr_left_top>
+              <dr_left_top_lib>e:\hydraumech\icons\surround09_tl.gif</dr_left_top_lib>
+              <dr_left_top_corner_width>8</dr_left_top_corner_width>
+              <dr_left_top_corner_height>8</dr_left_top_corner_height>
+              <dr_left_top_color></dr_left_top_color>
+              <dr_left_top_blend>0</dr_left_top_blend>
+              <dr_left_top_light>0</dr_left_top_light>
+              <dr_right_top>e:\hydraumech\icons\surround09_tr.gif</dr_right_top>
+              <dr_right_top_lib>e:\hydraumech\icons\surround09_tr.gif</dr_right_top_lib>
+              <dr_right_top_corner_width>8</dr_right_top_corner_width>
+              <dr_right_top_corner_height>8</dr_right_top_corner_height>
+              <dr_right_top_color></dr_right_top_color>
+              <dr_right_top_blend>0</dr_right_top_blend>
+              <dr_right_top_light>0</dr_right_top_light>
+              <dr_right_bottom>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom>
+              <dr_right_bottom_lib>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom_lib>
+              <dr_right_bottom_corner_width>8</dr_right_bottom_corner_width>
+              <dr_right_bottom_corner_height>8</dr_right_bottom_corner_height>
+              <dr_right_bottom_color></dr_right_bottom_color>
+              <dr_right_bottom_blend>0</dr_right_bottom_blend>
+              <dr_right_bottom_light>0</dr_right_bottom_light>
+              <dr_left_bottom>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom>
+              <dr_left_bottom_lib>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom_lib>
+              <dr_left_bottom_corner_width>8</dr_left_bottom_corner_width>
+              <dr_left_bottom_corner_height>8</dr_left_bottom_corner_height>
+              <dr_left_bottom_color></dr_left_bottom_color>
+              <dr_left_bottom_blend>0</dr_left_bottom_blend>
+              <dr_left_bottom_light>0</dr_left_bottom_light>
+              <dr_top img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_t.gif" bg_img_lib="e:\hydraumech\icons\surround09_t.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_top>
+              <dr_right img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_r.gif" bg_img_lib="e:\hydraumech\icons\surround09_r.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_right>
+              <dr_bottom img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_b.gif" bg_img_lib="e:\hydraumech\icons\surround09_b.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_bottom>
+              <dr_left img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_l.gif" bg_img_lib="e:\hydraumech\icons\surround09_l.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_left>
+              <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+            </setting>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="e:\hydraumech\icons\arrow_r.gif" over="e:\hydraumech\icons\arrow_r.gif" width="7" height="7" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+            <node state="0" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+            </node>
+        </layer></node>
+        <node state="2" condition_invisible="0" advanced_disable="0">
+            <condition_prefix></condition_prefix>
+            <condition_suffix></condition_suffix>
+            <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+            <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+            <image out="" over="" width="-1" height="-1" border="0"></image>
+            <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+            <arrow out="e:\hydraumech\icons\arrow_32[1].gif" over="" width="14" height="18" border="0"></arrow>
+            <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+            <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+        
+            <layer>
+              <setting>
+                <display>1</display>
+                <spacing>2</spacing>
+                <padding>2</padding>
+                <transparency>0</transparency>
+                <direction>0</direction>
+                <corner_x>0</corner_x>
+                <corner_y>0</corner_y>
+                <bg_color>#FFFFFF</bg_color>
+                <bg_transparent>0</bg_transparent>
+                <bg_image></bg_image>
+                <bg_tile>3</bg_tile>
+                <border_style>8</border_style>
+                <border_width>0</border_width>
+                <border_color>#FFFFFF</border_color>
+                <border_synchronize>1</border_synchronize>
+                <shadow_type>0</shadow_type>
+                <shadow_size>3</shadow_size>
+                <shadow_color>#999999</shadow_color>
+                <effect_show>0</effect_show>
+                <effect_hide>1</effect_hide>
+                <effect_speed>32</effect_speed>
+                <enable_decoration>0</enable_decoration>
+                <dr_left_top>e:\hydraumech\icons\surround09_tl.gif</dr_left_top>
+                <dr_left_top_lib>e:\hydraumech\icons\surround09_tl.gif</dr_left_top_lib>
+                <dr_left_top_corner_width>8</dr_left_top_corner_width>
+                <dr_left_top_corner_height>8</dr_left_top_corner_height>
+                <dr_left_top_color></dr_left_top_color>
+                <dr_left_top_blend>0</dr_left_top_blend>
+                <dr_left_top_light>0</dr_left_top_light>
+                <dr_right_top>e:\hydraumech\icons\surround09_tr.gif</dr_right_top>
+                <dr_right_top_lib>e:\hydraumech\icons\surround09_tr.gif</dr_right_top_lib>
+                <dr_right_top_corner_width>8</dr_right_top_corner_width>
+                <dr_right_top_corner_height>8</dr_right_top_corner_height>
+                <dr_right_top_color></dr_right_top_color>
+                <dr_right_top_blend>0</dr_right_top_blend>
+                <dr_right_top_light>0</dr_right_top_light>
+                <dr_right_bottom>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom>
+                <dr_right_bottom_lib>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom_lib>
+                <dr_right_bottom_corner_width>8</dr_right_bottom_corner_width>
+                <dr_right_bottom_corner_height>8</dr_right_bottom_corner_height>
+                <dr_right_bottom_color></dr_right_bottom_color>
+                <dr_right_bottom_blend>0</dr_right_bottom_blend>
+                <dr_right_bottom_light>0</dr_right_bottom_light>
+                <dr_left_bottom>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom>
+                <dr_left_bottom_lib>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom_lib>
+                <dr_left_bottom_corner_width>8</dr_left_bottom_corner_width>
+                <dr_left_bottom_corner_height>8</dr_left_bottom_corner_height>
+                <dr_left_bottom_color></dr_left_bottom_color>
+                <dr_left_bottom_blend>0</dr_left_bottom_blend>
+                <dr_left_bottom_light>0</dr_left_bottom_light>
+                <dr_top img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_t.gif" bg_img_lib="e:\hydraumech\icons\surround09_t.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_top>
+                <dr_right img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_r.gif" bg_img_lib="e:\hydraumech\icons\surround09_r.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_right>
+                <dr_bottom img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_b.gif" bg_img_lib="e:\hydraumech\icons\surround09_b.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_bottom>
+                <dr_left img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_l.gif" bg_img_lib="e:\hydraumech\icons\surround09_l.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_left>
+                <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+              </setting>
+              <node state="0" condition_invisible="0" advanced_disable="0">
+                <condition_prefix></condition_prefix>
+                <condition_suffix></condition_suffix>
+                <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                <image out="" over="" width="-1" height="-1" border="0"></image>
+                <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+              </node>
+              <node state="0" condition_invisible="0" advanced_disable="0">
+                <condition_prefix></condition_prefix>
+                <condition_suffix></condition_suffix>
+                <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                <image out="" over="" width="-1" height="-1" border="0"></image>
+                <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+              </node>
+              <node state="0" condition_invisible="0" advanced_disable="0">
+                <condition_prefix></condition_prefix>
+                <condition_suffix></condition_suffix>
+                <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                <image out="" over="" width="-1" height="-1" border="0"></image>
+                <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+              </node>
+              <node state="0" condition_invisible="0" advanced_disable="0">
+                <condition_prefix></condition_prefix>
+                <condition_suffix></condition_suffix>
+                <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                <image out="" over="" width="-1" height="-1" border="0"></image>
+                <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+              </node>
+              <node state="0" condition_invisible="0" advanced_disable="0">
+                <condition_prefix></condition_prefix>
+                <condition_suffix></condition_suffix>
+                <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                <image out="" over="" width="-1" height="-1" border="0"></image>
+                <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+              </node>
+              <node state="0" condition_invisible="0" advanced_disable="0">
+                <condition_prefix></condition_prefix>
+                <condition_suffix></condition_suffix>
+                <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                <image out="" over="" width="-1" height="-1" border="0"></image>
+                <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+              </node>
+        </layer></node>
+        <node state="2" condition_invisible="0" advanced_disable="0">
+              <condition_prefix></condition_prefix>
+              <condition_suffix></condition_suffix>
+              <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+              <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+              <image out="" over="" width="-1" height="-1" border="0"></image>
+              <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+              <arrow out="e:\hydraumech\icons\arrow_32[1].gif" over="" width="14" height="18" border="0"></arrow>
+              <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+              <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+        
+              <layer>
+                <setting>
+                  <display>1</display>
+                  <spacing>2</spacing>
+                  <padding>2</padding>
+                  <transparency>0</transparency>
+                  <direction>0</direction>
+                  <corner_x>0</corner_x>
+                  <corner_y>0</corner_y>
+                  <bg_color>#FFFFFF</bg_color>
+                  <bg_transparent>0</bg_transparent>
+                  <bg_image></bg_image>
+                  <bg_tile>3</bg_tile>
+                  <border_style>8</border_style>
+                  <border_width>0</border_width>
+                  <border_color>#FFFFFF</border_color>
+                  <border_synchronize>1</border_synchronize>
+                  <shadow_type>0</shadow_type>
+                  <shadow_size>3</shadow_size>
+                  <shadow_color>#999999</shadow_color>
+                  <effect_show>0</effect_show>
+                  <effect_hide>1</effect_hide>
+                  <effect_speed>32</effect_speed>
+                  <enable_decoration>0</enable_decoration>
+                  <dr_left_top>e:\hydraumech\icons\surround09_tl.gif</dr_left_top>
+                  <dr_left_top_lib>e:\hydraumech\icons\surround09_tl.gif</dr_left_top_lib>
+                  <dr_left_top_corner_width>8</dr_left_top_corner_width>
+                  <dr_left_top_corner_height>8</dr_left_top_corner_height>
+                  <dr_left_top_color></dr_left_top_color>
+                  <dr_left_top_blend>0</dr_left_top_blend>
+                  <dr_left_top_light>0</dr_left_top_light>
+                  <dr_right_top>e:\hydraumech\icons\surround09_tr.gif</dr_right_top>
+                  <dr_right_top_lib>e:\hydraumech\icons\surround09_tr.gif</dr_right_top_lib>
+                  <dr_right_top_corner_width>8</dr_right_top_corner_width>
+                  <dr_right_top_corner_height>8</dr_right_top_corner_height>
+                  <dr_right_top_color></dr_right_top_color>
+                  <dr_right_top_blend>0</dr_right_top_blend>
+                  <dr_right_top_light>0</dr_right_top_light>
+                  <dr_right_bottom>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom>
+                  <dr_right_bottom_lib>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom_lib>
+                  <dr_right_bottom_corner_width>8</dr_right_bottom_corner_width>
+                  <dr_right_bottom_corner_height>8</dr_right_bottom_corner_height>
+                  <dr_right_bottom_color></dr_right_bottom_color>
+                  <dr_right_bottom_blend>0</dr_right_bottom_blend>
+                  <dr_right_bottom_light>0</dr_right_bottom_light>
+                  <dr_left_bottom>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom>
+                  <dr_left_bottom_lib>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom_lib>
+                  <dr_left_bottom_corner_width>8</dr_left_bottom_corner_width>
+                  <dr_left_bottom_corner_height>8</dr_left_bottom_corner_height>
+                  <dr_left_bottom_color></dr_left_bottom_color>
+                  <dr_left_bottom_blend>0</dr_left_bottom_blend>
+                  <dr_left_bottom_light>0</dr_left_bottom_light>
+                  <dr_top img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_t.gif" bg_img_lib="e:\hydraumech\icons\surround09_t.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_top>
+                  <dr_right img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_r.gif" bg_img_lib="e:\hydraumech\icons\surround09_r.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_right>
+                  <dr_bottom img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_b.gif" bg_img_lib="e:\hydraumech\icons\surround09_b.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_bottom>
+                  <dr_left img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_l.gif" bg_img_lib="e:\hydraumech\icons\surround09_l.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_left>
+                  <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+                </setting>
+                <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+                <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+                <node state="1" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+                <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+                <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+                <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+                <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+                <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                </node>
+        </layer></node>
+        <node state="2" condition_invisible="0" advanced_disable="0">
+                <condition_prefix></condition_prefix>
+                <condition_suffix></condition_suffix>
+                <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                <image out="" over="" width="-1" height="-1" border="0"></image>
+                <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                <arrow out="e:\hydraumech\icons\arrow_32[1].gif" over="" width="14" height="18" border="0"></arrow>
+                <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+        
+                <layer>
+                  <setting>
+                    <display>1</display>
+                    <spacing>2</spacing>
+                    <padding>2</padding>
+                    <transparency>0</transparency>
+                    <direction>0</direction>
+                    <corner_x>0</corner_x>
+                    <corner_y>0</corner_y>
+                    <bg_color>#FFFFFF</bg_color>
+                    <bg_transparent>0</bg_transparent>
+                    <bg_image></bg_image>
+                    <bg_tile>3</bg_tile>
+                    <border_style>8</border_style>
+                    <border_width>0</border_width>
+                    <border_color>#FFFFFF</border_color>
+                    <border_synchronize>1</border_synchronize>
+                    <shadow_type>0</shadow_type>
+                    <shadow_size>3</shadow_size>
+                    <shadow_color>#999999</shadow_color>
+                    <effect_show>0</effect_show>
+                    <effect_hide>1</effect_hide>
+                    <effect_speed>32</effect_speed>
+                    <enable_decoration>0</enable_decoration>
+                    <dr_left_top>e:\hydraumech\icons\surround09_tl.gif</dr_left_top>
+                    <dr_left_top_lib>e:\hydraumech\icons\surround09_tl.gif</dr_left_top_lib>
+                    <dr_left_top_corner_width>8</dr_left_top_corner_width>
+                    <dr_left_top_corner_height>8</dr_left_top_corner_height>
+                    <dr_left_top_color></dr_left_top_color>
+                    <dr_left_top_blend>0</dr_left_top_blend>
+                    <dr_left_top_light>0</dr_left_top_light>
+                    <dr_right_top>e:\hydraumech\icons\surround09_tr.gif</dr_right_top>
+                    <dr_right_top_lib>e:\hydraumech\icons\surround09_tr.gif</dr_right_top_lib>
+                    <dr_right_top_corner_width>8</dr_right_top_corner_width>
+                    <dr_right_top_corner_height>8</dr_right_top_corner_height>
+                    <dr_right_top_color></dr_right_top_color>
+                    <dr_right_top_blend>0</dr_right_top_blend>
+                    <dr_right_top_light>0</dr_right_top_light>
+                    <dr_right_bottom>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom>
+                    <dr_right_bottom_lib>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom_lib>
+                    <dr_right_bottom_corner_width>8</dr_right_bottom_corner_width>
+                    <dr_right_bottom_corner_height>8</dr_right_bottom_corner_height>
+                    <dr_right_bottom_color></dr_right_bottom_color>
+                    <dr_right_bottom_blend>0</dr_right_bottom_blend>
+                    <dr_right_bottom_light>0</dr_right_bottom_light>
+                    <dr_left_bottom>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom>
+                    <dr_left_bottom_lib>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom_lib>
+                    <dr_left_bottom_corner_width>8</dr_left_bottom_corner_width>
+                    <dr_left_bottom_corner_height>8</dr_left_bottom_corner_height>
+                    <dr_left_bottom_color></dr_left_bottom_color>
+                    <dr_left_bottom_blend>0</dr_left_bottom_blend>
+                    <dr_left_bottom_light>0</dr_left_bottom_light>
+                    <dr_top img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_t.gif" bg_img_lib="e:\hydraumech\icons\surround09_t.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_top>
+                    <dr_right img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_r.gif" bg_img_lib="e:\hydraumech\icons\surround09_r.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_right>
+                    <dr_bottom img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_b.gif" bg_img_lib="e:\hydraumech\icons\surround09_b.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_bottom>
+                    <dr_left img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_l.gif" bg_img_lib="e:\hydraumech\icons\surround09_l.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_left>
+                    <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+                  </setting>
+                  <node state="0" condition_invisible="0" advanced_disable="0">
+                    <condition_prefix></condition_prefix>
+                    <condition_suffix></condition_suffix>
+                    <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                    <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                    <image out="" over="" width="-1" height="-1" border="0"></image>
+                    <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                    <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                    <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                    <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                  </node>
+                  <node state="0" condition_invisible="0" advanced_disable="0">
+                    <condition_prefix></condition_prefix>
+                    <condition_suffix></condition_suffix>
+                    <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                    <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                    <image out="" over="" width="-1" height="-1" border="0"></image>
+                    <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                    <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                    <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                    <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                  </node>
+                  <node state="0" condition_invisible="0" advanced_disable="0">
+                    <condition_prefix></condition_prefix>
+                    <condition_suffix></condition_suffix>
+                    <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                    <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                    <image out="" over="" width="-1" height="-1" border="0"></image>
+                    <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                    <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                    <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                    <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                  </node>
+                  <node state="0" condition_invisible="0" advanced_disable="0">
+                    <condition_prefix></condition_prefix>
+                    <condition_suffix></condition_suffix>
+                    <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                    <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                    <image out="" over="" width="-1" height="-1" border="0"></image>
+                    <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                    <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                    <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                    <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                  </node>
+                  <node state="0" condition_invisible="0" advanced_disable="0">
+                    <condition_prefix></condition_prefix>
+                    <condition_suffix></condition_suffix>
+                    <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                    <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                    <image out="" over="" width="-1" height="-1" border="0"></image>
+                    <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                    <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                    <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                    <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                  </node>
+        </layer></node>
+        <node state="0" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+        </node>
+        <node state="2" condition_invisible="0" advanced_disable="0">
+                  <condition_prefix></condition_prefix>
+                  <condition_suffix></condition_suffix>
+                  <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                  <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                  <image out="" over="" width="-1" height="-1" border="0"></image>
+                  <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                  <arrow out="e:\hydraumech\icons\arrow_32[1].gif" over="" width="14" height="18" border="0"></arrow>
+                  <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                  <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+        
+                  <layer>
+                    <setting>
+                      <display>1</display>
+                      <spacing>2</spacing>
+                      <padding>2</padding>
+                      <transparency>0</transparency>
+                      <direction>0</direction>
+                      <corner_x>0</corner_x>
+                      <corner_y>0</corner_y>
+                      <bg_color>#FFFFFF</bg_color>
+                      <bg_transparent>0</bg_transparent>
+                      <bg_image></bg_image>
+                      <bg_tile>3</bg_tile>
+                      <border_style>8</border_style>
+                      <border_width>0</border_width>
+                      <border_color>#FFFFFF</border_color>
+                      <border_synchronize>1</border_synchronize>
+                      <shadow_type>0</shadow_type>
+                      <shadow_size>3</shadow_size>
+                      <shadow_color>#999999</shadow_color>
+                      <effect_show>0</effect_show>
+                      <effect_hide>1</effect_hide>
+                      <effect_speed>32</effect_speed>
+                      <enable_decoration>0</enable_decoration>
+                      <dr_left_top>e:\hydraumech\icons\surround09_tl.gif</dr_left_top>
+                      <dr_left_top_lib>e:\hydraumech\icons\surround09_tl.gif</dr_left_top_lib>
+                      <dr_left_top_corner_width>8</dr_left_top_corner_width>
+                      <dr_left_top_corner_height>8</dr_left_top_corner_height>
+                      <dr_left_top_color></dr_left_top_color>
+                      <dr_left_top_blend>0</dr_left_top_blend>
+                      <dr_left_top_light>0</dr_left_top_light>
+                      <dr_right_top>e:\hydraumech\icons\surround09_tr.gif</dr_right_top>
+                      <dr_right_top_lib>e:\hydraumech\icons\surround09_tr.gif</dr_right_top_lib>
+                      <dr_right_top_corner_width>8</dr_right_top_corner_width>
+                      <dr_right_top_corner_height>8</dr_right_top_corner_height>
+                      <dr_right_top_color></dr_right_top_color>
+                      <dr_right_top_blend>0</dr_right_top_blend>
+                      <dr_right_top_light>0</dr_right_top_light>
+                      <dr_right_bottom>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom>
+                      <dr_right_bottom_lib>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom_lib>
+                      <dr_right_bottom_corner_width>8</dr_right_bottom_corner_width>
+                      <dr_right_bottom_corner_height>8</dr_right_bottom_corner_height>
+                      <dr_right_bottom_color></dr_right_bottom_color>
+                      <dr_right_bottom_blend>0</dr_right_bottom_blend>
+                      <dr_right_bottom_light>0</dr_right_bottom_light>
+                      <dr_left_bottom>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom>
+                      <dr_left_bottom_lib>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom_lib>
+                      <dr_left_bottom_corner_width>8</dr_left_bottom_corner_width>
+                      <dr_left_bottom_corner_height>8</dr_left_bottom_corner_height>
+                      <dr_left_bottom_color></dr_left_bottom_color>
+                      <dr_left_bottom_blend>0</dr_left_bottom_blend>
+                      <dr_left_bottom_light>0</dr_left_bottom_light>
+                      <dr_top img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_t.gif" bg_img_lib="e:\hydraumech\icons\surround09_t.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_top>
+                      <dr_right img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_r.gif" bg_img_lib="e:\hydraumech\icons\surround09_r.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_right>
+                      <dr_bottom img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_b.gif" bg_img_lib="e:\hydraumech\icons\surround09_b.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_bottom>
+                      <dr_left img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_l.gif" bg_img_lib="e:\hydraumech\icons\surround09_l.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_left>
+                      <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+                    </setting>
+                    <node state="0" condition_invisible="0" advanced_disable="0">
+                      <condition_prefix></condition_prefix>
+                      <condition_suffix></condition_suffix>
+                      <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                      <image out="" over="" width="-1" height="-1" border="0"></image>
+                      <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                      <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                    </node>
+                    <node state="0" condition_invisible="0" advanced_disable="0">
+                      <condition_prefix></condition_prefix>
+                      <condition_suffix></condition_suffix>
+                      <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                      <image out="" over="" width="-1" height="-1" border="0"></image>
+                      <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                      <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                    </node>
+                    <node state="0" condition_invisible="0" advanced_disable="0">
+                      <condition_prefix></condition_prefix>
+                      <condition_suffix></condition_suffix>
+                      <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                      <image out="" over="" width="-1" height="-1" border="0"></image>
+                      <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                      <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                    </node>
+                    <node state="0" condition_invisible="0" advanced_disable="0">
+                      <condition_prefix></condition_prefix>
+                      <condition_suffix></condition_suffix>
+                      <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                      <image out="" over="" width="-1" height="-1" border="0"></image>
+                      <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                      <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                    </node>
+                    <node state="0" condition_invisible="0" advanced_disable="0">
+                      <condition_prefix></condition_prefix>
+                      <condition_suffix></condition_suffix>
+                      <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                      <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                      <image out="" over="" width="-1" height="-1" border="0"></image>
+                      <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                      <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                      <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                      <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                    </node>
+        </layer></node>
+        <node state="2" condition_invisible="0" advanced_disable="0">
+                    <condition_prefix></condition_prefix>
+                    <condition_suffix></condition_suffix>
+                    <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                    <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                    <image out="" over="" width="-1" height="-1" border="0"></image>
+                    <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                    <arrow out="e:\hydraumech\icons\arrow_32[1].gif" over="" width="14" height="18" border="0"></arrow>
+                    <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                    <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+        
+                    <layer>
+                      <setting>
+                        <display>1</display>
+                        <spacing>2</spacing>
+                        <padding>2</padding>
+                        <transparency>0</transparency>
+                        <direction>0</direction>
+                        <corner_x>0</corner_x>
+                        <corner_y>0</corner_y>
+                        <bg_color>#FFFFFF</bg_color>
+                        <bg_transparent>0</bg_transparent>
+                        <bg_image></bg_image>
+                        <bg_tile>3</bg_tile>
+                        <border_style>8</border_style>
+                        <border_width>0</border_width>
+                        <border_color>#FFFFFF</border_color>
+                        <border_synchronize>1</border_synchronize>
+                        <shadow_type>0</shadow_type>
+                        <shadow_size>3</shadow_size>
+                        <shadow_color>#999999</shadow_color>
+                        <effect_show>0</effect_show>
+                        <effect_hide>1</effect_hide>
+                        <effect_speed>32</effect_speed>
+                        <enable_decoration>0</enable_decoration>
+                        <dr_left_top>e:\hydraumech\icons\surround09_tl.gif</dr_left_top>
+                        <dr_left_top_lib>e:\hydraumech\icons\surround09_tl.gif</dr_left_top_lib>
+                        <dr_left_top_corner_width>8</dr_left_top_corner_width>
+                        <dr_left_top_corner_height>8</dr_left_top_corner_height>
+                        <dr_left_top_color></dr_left_top_color>
+                        <dr_left_top_blend>0</dr_left_top_blend>
+                        <dr_left_top_light>0</dr_left_top_light>
+                        <dr_right_top>e:\hydraumech\icons\surround09_tr.gif</dr_right_top>
+                        <dr_right_top_lib>e:\hydraumech\icons\surround09_tr.gif</dr_right_top_lib>
+                        <dr_right_top_corner_width>8</dr_right_top_corner_width>
+                        <dr_right_top_corner_height>8</dr_right_top_corner_height>
+                        <dr_right_top_color></dr_right_top_color>
+                        <dr_right_top_blend>0</dr_right_top_blend>
+                        <dr_right_top_light>0</dr_right_top_light>
+                        <dr_right_bottom>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom>
+                        <dr_right_bottom_lib>e:\hydraumech\icons\surround09_br.gif</dr_right_bottom_lib>
+                        <dr_right_bottom_corner_width>8</dr_right_bottom_corner_width>
+                        <dr_right_bottom_corner_height>8</dr_right_bottom_corner_height>
+                        <dr_right_bottom_color></dr_right_bottom_color>
+                        <dr_right_bottom_blend>0</dr_right_bottom_blend>
+                        <dr_right_bottom_light>0</dr_right_bottom_light>
+                        <dr_left_bottom>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom>
+                        <dr_left_bottom_lib>e:\hydraumech\icons\surround09_bl.gif</dr_left_bottom_lib>
+                        <dr_left_bottom_corner_width>8</dr_left_bottom_corner_width>
+                        <dr_left_bottom_corner_height>8</dr_left_bottom_corner_height>
+                        <dr_left_bottom_color></dr_left_bottom_color>
+                        <dr_left_bottom_blend>0</dr_left_bottom_blend>
+                        <dr_left_bottom_light>0</dr_left_bottom_light>
+                        <dr_top img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_t.gif" bg_img_lib="e:\hydraumech\icons\surround09_t.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_top>
+                        <dr_right img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_r.gif" bg_img_lib="e:\hydraumech\icons\surround09_r.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_right>
+                        <dr_bottom img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_b.gif" bg_img_lib="e:\hydraumech\icons\surround09_b.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_bottom>
+                        <dr_left img_path="" img_height="8" img_width="8" bg_img="e:\hydraumech\icons\surround09_l.gif" bg_img_lib="e:\hydraumech\icons\surround09_l.gif" bg_img_color="" bg_img_blend="0" bg_img_light="0" bg_color="" bg_transparent="0" bg_tile="3"></dr_left>
+                        <multi_column mc_enable="0" mc_number="2" sepa_color="#000000" sepa_transparent="0" sepa_thickness="1" sepa_img="" sepa_img_tile="3"></multi_column>
+                      </setting>
+                      <node state="0" condition_invisible="0" advanced_disable="0">
+                        <condition_prefix></condition_prefix>
+                        <condition_suffix></condition_suffix>
+                        <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                        <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                        <image out="" over="" width="-1" height="-1" border="0"></image>
+                        <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                        <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                        <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                        <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                      </node>
+                      <node state="0" condition_invisible="0" advanced_disable="0">
+                        <condition_prefix></condition_prefix>
+                        <condition_suffix></condition_suffix>
+                        <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                        <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                        <image out="" over="" width="-1" height="-1" border="0"></image>
+                        <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                        <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                        <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                        <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                      </node>
+                      <node state="0" condition_invisible="0" advanced_disable="0">
+                        <condition_prefix></condition_prefix>
+                        <condition_suffix></condition_suffix>
+                        <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                        <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                        <image out="" over="" width="-1" height="-1" border="0"></image>
+                        <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                        <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                        <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                        <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                      </node>
+                      <node state="0" condition_invisible="0" advanced_disable="0">
+                        <condition_prefix></condition_prefix>
+                        <condition_suffix></condition_suffix>
+                        <general width="0" height="0" type="0" align_h="0" align_v="0" tip_text="" status="" status_default="1"></general>
+                        <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="0" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+                        <image out="" over="" width="-1" height="-1" border="0"></image>
+                        <icon out="" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+                        <arrow out="" over="" width="-1" height="-1" border="0"></arrow>
+                        <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+                        <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+                      </node>
+        </layer></node>
+    </layer></node>
+    <node state="0" condition_invisible="0" advanced_disable="0">
+        <condition_prefix></condition_prefix>
+        <condition_suffix></condition_suffix>
+        <general width="80" height="0" type="0" align_h="0" align_v="1" tip_text="" status="" status_default="1"></general>
+        <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="1" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+        <image out="" over="" width="-1" height="-1" border="0"></image>
+        <icon out="e:\hydraumech\icons\icon_10.gif" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+        <arrow out="e:\hydraumech\icons\060420arrow.gif" over="d:\Hydraumech\icons\060420arrow1.gif" width="28" height="5" border="0"></arrow>
+        <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+        <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+    </node>
+    <node state="0" condition_invisible="0" advanced_disable="0">
+        <condition_prefix></condition_prefix>
+        <condition_suffix></condition_suffix>
+        <general width="80" height="0" type="0" align_h="0" align_v="1" tip_text="" status="" status_default="1"></general>
+        <font out_face="Microsoft JhengHei" out_color="#FFFFFF" out_size="15" out_size_unit="0" out_decoration="1" over_face="Microsoft JhengHei" over_color="#FFFFFF" over_size="18" over_size_unit="0" over_decoration="1"></font>
+        <image out="" over="" width="-1" height="-1" border="0"></image>
+        <icon out="e:\hydraumech\icons\icon_10.gif" over="e:\hydraumech\arrow_07[1].gif" width="14" height="15" border="0"></icon>
+        <arrow out="e:\hydraumech\icons\060420arrow.gif" over="d:\Hydraumech\icons\060420arrow1.gif" width="28" height="5" border="0"></arrow>
+        <background out_color="#000000" out_transparent="0" out_image="" out_image_left="" out_image_right="" out_tile="3" over_color="#FF0000" over_transparent="0" over_image="" over_image_left="" over_image_right="" left_image_max_with="0" right_image_max_with="0" image_max_height="0" over_tile="3"></background>
+        <border style="1" width="0" out_color="#000000" out_synchronize="1" over_color="#000000" over_synchronize="1"></border>
+    </node></layer>
+    
+  <cross_frame>
+    <created>0</created>
+    <direction>0</direction>
+    <coor_x>0</coor_x>
+    <coor_y>0</coor_y>
+    <iframe>0</iframe>
+    <navigate_frame>导航框架</navigate_frame>
+    <content_frame>主框架</content_frame>
+    <show_in_navigation>1</show_in_navigation>
+  </cross_frame>
+  <scroll_h>
+    <enable_scroll>0</enable_scroll>
+    <enable_custom>0</enable_custom>
+    <custom_size>200</custom_size>
+    <bg_out_color>#FFFFF7</bg_out_color>
+    <bg_out_transparent>1</bg_out_transparent>
+    <bg_out_image></bg_out_image>
+    <bg_out_tile>3</bg_out_tile>
+    <bg_over_color>#B5BED6</bg_over_color>
+    <bg_over_transparent>1</bg_over_transparent>
+    <bg_over_image></bg_over_image>
+    <bg_over_tile>3</bg_over_tile>
+    <border_style>0</border_style>
+    <border_width>1</border_width>
+    <border_out_color>#FFFFF7</border_out_color>
+    <border_out_synchronize>1</border_out_synchronize>
+    <border_over_color>#000000</border_over_color>
+    <border_over_synchronize>1</border_over_synchronize>
+    <arrow_lu_enable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\left_disabled.gif</arrow_lu_enable>
+    <arrow_lu_disable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\left_enabled.gif</arrow_lu_disable>
+    <arrow_lu_width>9</arrow_lu_width>
+    <arrow_lu_height>7</arrow_lu_height>
+    <arrow_lu_border>0</arrow_lu_border>
+    <arrow_rd_enable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\right_disabled.gif</arrow_rd_enable>
+    <arrow_rd_disable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\right_enabled.gif</arrow_rd_disable>
+    <arrow_rd_width>9</arrow_rd_width>
+    <arrow_rd_height>7</arrow_rd_height>
+    <arrow_rd_border>0</arrow_rd_border>
+  </scroll_h>
+  <scroll_v>
+    <enable_scroll>0</enable_scroll>
+    <enable_custom>0</enable_custom>
+    <custom_size>200</custom_size>
+    <bg_out_color>#FFFFF7</bg_out_color>
+    <bg_out_transparent>1</bg_out_transparent>
+    <bg_out_image></bg_out_image>
+    <bg_out_tile>3</bg_out_tile>
+    <bg_over_color>#B5BED6</bg_over_color>
+    <bg_over_transparent>1</bg_over_transparent>
+    <bg_over_image></bg_over_image>
+    <bg_over_tile>3</bg_over_tile>
+    <border_style>0</border_style>
+    <border_width>1</border_width>
+    <border_out_color>#FFFFF7</border_out_color>
+    <border_out_synchronize>1</border_out_synchronize>
+    <border_over_color>#000000</border_over_color>
+    <border_over_synchronize>1</border_over_synchronize>
+    <arrow_lu_enable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\up_disabled.gif</arrow_lu_enable>
+    <arrow_lu_disable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\up_enabled.gif</arrow_lu_disable>
+    <arrow_lu_width>7</arrow_lu_width>
+    <arrow_lu_height>9</arrow_lu_height>
+    <arrow_lu_border>0</arrow_lu_border>
+    <arrow_rd_enable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\down_disabled.gif</arrow_rd_enable>
+    <arrow_rd_disable>Z:\SourceTec\Sothink DHTML Menu 9\Resource\down_enabled.gif</arrow_rd_disable>
+    <arrow_rd_width>7</arrow_rd_width>
+    <arrow_rd_height>9</arrow_rd_height>
+    <arrow_rd_border>0</arrow_rd_border>
+  </scroll_v>
+  
+</sothink_menu>
