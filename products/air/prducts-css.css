@@ -1,0 +1,80 @@
+
+.hh{
+text-align:left;
+margin:10px 16px 6px 16px;
+word-break :break-word;
+font-size:12px;
+width:495px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+line-height:18px;
+}
+
+
+<!--
+ul{
+ list-style:none;
+}
+.main{
+ clear:both;
+ padding:8px;
+ text-align:center;
+}
+/*第三种形式*/
+#tabs0 {
+ height: 200px;
+ width: 770px;
+
+ background-color: #ffffff;
+ color:#333333;
+ font-size:11px;
+ z-index:1;
+}
+
+.menu0{
+ width: 770px;
+}
+.menu0 li{
+ display:block;
+ float: left;
+ width:110px;
+ height:19px;
+ text-align: center;
+ cursor:pointer;
+ background-image:url(../ima/in-bj.jpg);
+ background-repeat:no-repeat;
+ border-right:thin #FF0000 2px;
+ color:#F88B21;
+ padding-top:6px;
+ margin:0;
+ padding-bottom:0;
+ padding-left:0;
+ padding-right:0;
+
+}
+.menu0 li.hover{
+ text-align: center;
+width:110px;
+ background-image:url(../ima/in-bja.gif);
+  border-right:thin #FF0000 2px;
+  height:19px;
+}
+
+#main0 ul{
+ display: none;
+ background-color:#FFFFFF;
+}
+#main0 li{
+padding-left:10px;
+text-align:left;}
+#main0 ul.block{
+ display: block;
+}
+#line{
+background-color:#efefef;
+height:25px;}
+
+.STYLE12 {font-family: Arial; font-size: 12;
+}
+
+-->
+
